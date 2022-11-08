@@ -1,13 +1,17 @@
 # ASG1
-<style>
-    .h1{
-    color : green;
-    }
-</style>
+<html>
+    <head>
+        <style>
+            .h1{
+            color : green;
+            }
+        </style>
 
-<p>
-    type something 
-</p>
-<h1>
-    hello team
-</h1>
+        <p>
+            type something 
+        </p>
+        <h1>
+            hello team
+        </h1>
+    </head>
+</html>
