@@ -5,4 +5,6 @@
 <h1>
     hello team
 </h1>
-h1: green;
+h1{
+color : green;
+}
