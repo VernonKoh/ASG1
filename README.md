@@ -6,6 +6,7 @@
             color: green;
             }
         </style>
+    </head>
 
         <p>
             type something 
@@ -13,5 +14,4 @@
         <h1>
             hello team
         </h1>
-    </head>
 </html>
