@@ -1,4 +1,11 @@
-# ASG1
+#LUGGATI
 
-*Hi firstly i would like to create the world best website in the world!!*
-*dude what the hellsssss*
+I would be creating a car company website based on **BUGGATI** but i would change its name to **LUGGATI** :+1:
+
+The website would contain information about the cars **Specifications**, **Models** and **News** about the car. This would help users understand about the car even better.
+
+## Design Process :rocket:
+------------------
+A 
+
+
