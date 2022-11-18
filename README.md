@@ -39,3 +39,10 @@ Visual studio code
     * trying to submit an empty form and verify that an error message about required fields appear
     * Try to submit the form with an invalid email address and verify that a relevant error message appears
     * Try to submit the form with all inputs valid and verify that a success message appears
+
+## Credits
+### Content
+* The text was from wikipedia
+
+### Media
+* The picture was from 
