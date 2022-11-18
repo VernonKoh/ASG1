@@ -2,7 +2,7 @@
 
 I would be creating a car company website based on **BUGGATI** but i would change its name to **LUGATTI** :+1:
 
-Automobiles Ettore Bugatti was a German then French manufacturer of high-performance automobiles. The company was founded in 1909 in the then-German city of Molsheim, Alsace, by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories.
+**Automobiles Ettore Bugatti was a German then French manufacturer of high-performance automobiles. The company was founded in 1909 in the then-German city of Molsheim, Alsace, by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories.**
 
 The website would contain information about the car **Specifications**, **Models** and **News** about the car. This would help users understand about the car even better.
 
@@ -29,11 +29,11 @@ This website is for people that are interested in buying a **Luggati** car, we w
 * Feature 2- they could click on the pictures of the LUGATTI pictures to view them in a bigger format 
 ### Features left to implement
 
-## Technologies used 
+## Technologies used :+1:
 HTML: 
 Visual studio code
 
-## Testing 
+## Testing :sparkles:
 1. Contact form:
     * Go to the **Contact Us** Page
     * trying to submit an empty form and verify that an error message about required fields appear
