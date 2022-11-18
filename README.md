@@ -18,6 +18,6 @@ This website is for people that are interested in buying a **Luggati** car, we w
     * Purchase Luggati
 * this would allow users to find the things that they want to look at easily
 
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motorauthority.com%2Fnews%2F1132985_the-final-bugatti-divo-has-been-built-and-delivered&psig=AOvVaw2FNF31E3QT6zYi8sBvQH52&ust=1668863080644000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjgxcvlt_sCFQAAAAAdAAAAABAe)
+!(https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/800/the-final-bugatti-divo_100800186.jpg)
 
 
