@@ -14,7 +14,7 @@ This website is for people that are interested in buying a **Luggati** car, The 
 
 The website only allows people to book a test drive/book appointment to take a test drive of the car or to purchase the car at the dealership itself as it is a really expensive and limited car so users have to order it at the dealership itself.
 
-I would like to create a website that is simple to navigate so that users will not have a hard time trying to navigate around the website, aesthetics are also important as it provides a good first impression on potential customers and making them stay. dude u have to find me 
+I would like to create a website that is simple to navigate so that users will not have a hard time trying to navigate around the website, aesthetics are also important as it provides a good first impression on potential customers and making them stay.
 
 **What kind of interactions i would like to have on my website**
 * Im going to have a Menu selection so user can choose what they would want to view
