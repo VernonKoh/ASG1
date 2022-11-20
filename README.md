@@ -41,6 +41,7 @@ I would like to create a website that is simple to navigate so that users will n
 
 ## Technologies used :+1:
 [Adobe XD](https://www.adobe.com/sg/products/xd.html)
+
 [Visual studio code](https://code.visualstudio.com/)
 
 ## Testing :sparkles:
