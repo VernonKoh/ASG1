@@ -1,16 +1,16 @@
-# LUGATTI
-Lugatti is a Automobile car company that specialises in combining an artistic approach with superior technical innovations in the world of super sports cars.
+# BUGATTI
+Bugatti is a Automobile car company that specialises in combining an artistic approach with superior technical innovations in the world of super sports cars.
 
 **Automobiles Ettore Bugatti was a German then French manufacturer of high-performance automobiles. The company was founded in 1909 in the then-German city of Molsheim, Alsace, by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories.**
 
-I would be creating a car company website based on **BUGGATI** but i would change its name to **LUGATTI** :+1:
+I would be creating a car company website based on **BUGGATI** 
 
 ![This is the picture](https://cimg2.ibsrv.net/ibimg/hgm/1920x1080-1/100/800/the-final-bugatti-divo_100800186.jpg)
 
 
 ### Design Process :rocket:
 ------------------
-This website is for people that are interested in buying a **Luggati** car, The objective of this website is to provide people a better understanding about the **Specifications**, **Models** and **Information** about the car. This would help users understand why the car cost this much and how much effort is put into making this car.
+This website is for people that are interested in buying a **Buggati** car, The objective of this website is to provide people a better understanding about the **Specifications**, **Models** and **Information** about the car. This would help users understand why the car cost this much and how much effort is put into making this car.
 
 The website only allows people to book a test drive/book appointment to take a test drive of the car or to purchase the car at the dealership itself as it is a really expensive and limited car so users have to order it at the dealership itself.
 
@@ -30,12 +30,13 @@ I would like to create a website that is simple to navigate so that users will n
 ### Existing features
 
 * The homepage would include a Contact section, Menu selection and book a test drive
-    * Feature 1- at the top right hand corner i would put a menu section if the user clicked it, it would direct them to the menu where it has different selection to view a type of section.
-    * Feature 2- they could click on the pictures of the LUGATTI pictures to view them in a bigger format 
+    * Feature 1- at the top i would put a menu section if the user clicked it, it would direct them to that section of the page
+    * Feature 2- they could click on the login of the bugatti to log into their account.
+    * Feature 3- a booking page
 * Model page helps user to view the beauty of the Lugatti cars and entise them to purchase one of these cars and would direct them to a link to view the pictures in a bigger format.
-* Booking page takes in information of the customer like, Name, email, contact number and date for test drive.
+* Booking page takes in information of the customer like, Name, email and date for test drive.
 * contact page would ask customer for their information like, Name, email, contact number and the questions they would like to ask so that we can contact them back with the answers they want.
-* Social page would also direct them to all of Bugattis social website pages
+
 * This website is also responsive, so it will work on both desktop and movile.
 
 
@@ -50,11 +51,18 @@ I would like to create a website that is simple to navigate so that users will n
     * trying to submit an empty form and verify that an error message about required fields appear
     * Try to submit the form with an invalid email address and verify that a relevant error message appears
     * Try to submit the form with all inputs valid and verify that a success message appears
-
+2. Booking form:
+    * Go to the **Book now** Page
+    * trying to submit an empty form and verify that an error message about required fields appear
+    * Try to submit the form with an invalid email address and verify that a relevant error message appears
+    * Try to submit the form with all inputs valid and verify that a success message appears
 ## Credits
 
-### Content
-* The text was from wikipedia
+### 
+* https://www.bugatti.com/
+* https://www.youtube.com/watch?v=_mojbx4Z7dQ&t=954s&ab_channel=CarpoolVenom
+* https://www.w3schools.com/
 
 ### Media
-* The picture was from 
+* The picture was from (https://unsplash.com/s/photos/bugatti)
+* https://www.cnet.com/roadshow/news/bugatti-divo-ends-production/
