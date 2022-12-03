@@ -68,12 +68,16 @@ I would like to create a website that is simple to navigate so that users will n
 
      [Video Explaination](https://connectnpedu.sharepoint.com/sites/Interview983/_layouts/15/stream.aspx?id=%2Fsites%2FInterview983%2FShared%20Documents%2FGeneral%2FRecordings%2FNew%20channel%20meeting%2D20221204%5F010047%2DMeeting%20Recording%2Emp4)
 
+## Problems encountered
+
+While working on my project i actually drifted quite abit from the original wireframe as i found something better but the idea is still there about having model pages and cotact pages and a information page. I did not know a single scroll page is considered more than 1 page if i have different sections so i ended up creating close to 10 pages and that would take a insane amount of time. So at the end of it i decided to create a single scroll page which would contain 4 different section.
+
 ## Credits
 
 ###
 
 - https://www.bugatti.com/
-- https://www.youtube.com/watch?v=_mojbx4Z7dQ&t=954s&ab_channel=CarpoolVenom
+- https://www.youtube.com/watch?v=lgeoAUvoRJU
 - https://www.w3schools.com/
 
 ### Media
