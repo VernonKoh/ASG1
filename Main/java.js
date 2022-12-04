@@ -26,7 +26,6 @@ window.onscroll = () => {
   
 }
 
-
 document.querySelector('#book-btn').onclick = () =>{
   document.querySelector('.book-form-container').classList.toggle('active');
 }
@@ -35,3 +34,4 @@ document.querySelector('#book-btn').onclick = () =>{
 document.querySelector('#close-book-form').onclick = () =>{
   document.querySelector('.book-form-container').classList.remove('active');
 }
+

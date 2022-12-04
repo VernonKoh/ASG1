@@ -225,7 +225,7 @@ header.shadow{
 
 .login-form-container{
     position: fixed;
-    top: -130%; left:0;
+    top: -110%; left:0;
     height: 100%;
     width:100%;
     display: flex;
@@ -271,6 +271,7 @@ header.shadow{
     border:var(--border);
     padding:1rem 1.2rem;
     border-radius: .5rem;
+    font-size: 85%;
 }
 
 .login-form-container form p{
@@ -327,7 +328,7 @@ header.shadow{
 
 .book-form-container{
     position: fixed;
-    top:-130%; left:0;
+    top:-105%; left:0;
     height:100%;
     width:100%;
     display: flex;
@@ -335,10 +336,12 @@ header.shadow{
     justify-content: center;
     background:rgba(255,255,255,.9);
     z-index: 10000;
+
 }
 
 .book-form-container.active{
     top:0;
+
 }
 
 .book-form-container form{
@@ -350,6 +353,7 @@ header.shadow{
     box-shadow: var(--box-shadow);
     border:var(--border);
     background: #fff;
+
 }
 
 .book-form-container form .buttons{
@@ -373,6 +377,7 @@ header.shadow{
     border:var(--border);
     padding:1rem 1.2rem;
     border-radius: .5rem;
+    font-size: 85%;
 }
 
 
@@ -384,7 +389,7 @@ header.shadow{
     cursor: pointer;
 }
 .book-form-container form h3{
-    padding-bottom:1rem;
+    padding-bottom: 1rem;
     font-size: 2.5rem;
     color:var(--black);
     text-transform: uppercase;
@@ -401,6 +406,8 @@ header.shadow{
 	width: 1130px;
 	margin: 30px auto;
 	text-align: center;
+
+
 }
 
 .boxs{
@@ -408,6 +415,7 @@ header.shadow{
 	justify-content: center;
 	align-items: center;
 	min-height: 400px;
+
 }
 .card{
 	height: 365px;
@@ -426,12 +434,12 @@ header.shadow{
 	text-align: center;
 	margin: 25px 0px;
 	color: #f9004d;
-
 }
 h5{
 	color: white;
 	font-size: 23px;
 	margin-bottom: 15px;
+
 }
 .pra p{
 	color: #fcfc;
@@ -569,6 +577,20 @@ h5{
 
 }
 /* Responsiveness */
+@media (max-width: 991px){
+    html{
+        font-size: 80%;
+    }
+    .header {
+        padding: 2rem;
+    }
+    .header.active{
+        padding: 2rem;
+    }
+    .section {
+        padding: 2rem;
+    }
+}
 @media (max-width: 1080px ) {
     .container {
         margin-left: 1rem;
@@ -642,17 +664,23 @@ h5{
     }
 }
 
-@media (max-width: 768px){
+@media (max-width: 968px){
     .about{
         text-align: center;
         padding: 10px 0;
     }
     .service{
         text-align: center;
-        padding: 10px 0;
+
     } 
     .title h2 {
-        font-size: 1.4rem;
+        display: flex;
+        text-align: center;
+
     }
-}    
+    .boxs {
+        flex-direction: column;
+    }
+    
+}   
 
