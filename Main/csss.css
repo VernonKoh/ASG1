@@ -225,8 +225,8 @@ header.shadow{
 
 .login-form-container{
     position: fixed;
-    top:-110%; left:0;
-    height:100%;
+    top: -130%; left:0;
+    height: 100%;
     width:100%;
     display: flex;
     align-items: center;
@@ -327,7 +327,7 @@ header.shadow{
 
 .book-form-container{
     position: fixed;
-    top:-110%; left:0;
+    top:-130%; left:0;
     height:100%;
     width:100%;
     display: flex;
