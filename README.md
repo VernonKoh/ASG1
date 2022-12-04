@@ -46,6 +46,8 @@ I would like to create a website that is simple to navigate so that users will n
 
 - This website is also responsive, so it will work on both desktop and movile.
 
+-[Video Explaination](https://connectnpedu.sharepoint.com/sites/Interview983/_layouts/15/stream.aspx?id=%2Fsites%2FInterview983%2FShared%20Documents%2FGeneral%2FRecordings%2FNew%20channel%20meeting%2D20221204%5F010047%2DMeeting%20Recording%2Emp4)
+
 ## Technologies used :+1:
 
 [Adobe XD](https://www.adobe.com/sg/products/xd.html)
@@ -65,8 +67,6 @@ I would like to create a website that is simple to navigate so that users will n
    - trying to submit an empty form and verify that an error message about required fields appear
    - Try to submit the form with an invalid email address and verify that a relevant error message appears
    - Try to submit the form with all inputs valid and verify that a success message appears
-
-     [Video Explaination](https://connectnpedu.sharepoint.com/sites/Interview983/_layouts/15/stream.aspx?id=%2Fsites%2FInterview983%2FShared%20Documents%2FGeneral%2FRecordings%2FNew%20channel%20meeting%2D20221204%5F010047%2DMeeting%20Recording%2Emp4)
 
 ## Problems encountered
 
